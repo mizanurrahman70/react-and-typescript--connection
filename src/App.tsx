@@ -6,7 +6,7 @@ import Contacts from './componant/Contacts';
 function App() {
   return (
     <div className="App">
-     <Contacts></Contacts>
+           <Contacts></Contacts>
     </div>
   );
 }
